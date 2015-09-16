@@ -76,7 +76,8 @@
     "*://app.breeze.pm/*",
     "*://www.gqueues.com/*",
     "*://app.codeable.io/*",
-    "*://www.assembla.com/*"
+    "*://www.assembla.com/*",
+    "*://hhey.ddns.net/*"
   ],
   "icons": {
     "16": "images/icon-16.png",
@@ -144,7 +145,8 @@
         "*://www.gqueues.com/*",
         "*://app.codeable.io/*",
         "*://waffle.io/*",
-        "*://www.assembla.com/*"
+        "*://www.assembla.com/*",
+        "*://hhey.ddns.net/*"
       ],
       "css": ["styles/style.css"],
       "js": ["scripts/common.js"]
@@ -296,6 +298,10 @@
     },
     {
       "matches": ["*://*.taiga.io/*"],
+      "js": ["scripts/content/taiga.js"]
+    },
+    {
+      "matches": ["*://hhey.ddns.net/*"],
       "js": ["scripts/content/taiga.js"]
     },
     {
