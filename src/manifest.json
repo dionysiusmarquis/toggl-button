@@ -371,7 +371,7 @@
       "js": ["scripts/content/habitrpg.js"]
     },
     {
-      "matches": ["*://*.taiga.io/*"],
+      "matches": ["*://*.taiga.io/*", "*://*.hhey.de/*"],
       "js": ["scripts/content/taiga.js"]
     },
     {
