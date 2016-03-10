@@ -122,7 +122,8 @@
     "*://*.proworkflow3.net/*",
     "*://*.proworkflow4.net/*",
     "*://*.proworkflow5.net/*",
-    "*://*.proworkflow6.net/*"
+    "*://*.proworkflow6.net/*",
+    "*://*.hhey.de/*"
   ],
   "content_scripts": [
     {
@@ -213,7 +214,8 @@
         "*://*.proworkflow3.net/*",
         "*://*.proworkflow4.net/*",
         "*://*.proworkflow5.net/*",
-        "*://*.proworkflow6.net/*"
+        "*://*.proworkflow6.net/*",
+	    "*://*.hhey.de/*"
       ],
       "css": ["styles/style.css"],
       "js": ["scripts/common.js"]
